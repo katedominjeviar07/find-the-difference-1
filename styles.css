@@ -1,0 +1,63 @@
+.img{
+    position:relative;
+    text-align:center;
+ 
+    }
+.bor{
+    border-radius:50%;
+    height:50px;
+    width:50px;
+    position:absolute;
+    
+    }
+#d1{
+    top:95px;
+    left:301px;
+    }
+#d2{
+    top:95px;
+    left:628px;
+    }
+#d3{
+    top:15px;
+    left:708px;
+    }
+#d4{
+    top:15px;
+    left:380px;
+    }    
+#d5{
+    top:125px;
+    left:390px;
+    }  
+      
+#d6{
+    top:125px;
+    left:710px;
+    } 
+h1{
+    text-align:center;
+    font-family: 'Carter One', cursive;
+    }
+#button{ 
+   margin:auto;
+   width:10%;
+  
+    }
+button{
+    width:60px;
+    height:30px;
+    border-radius:3px;
+    font-size:12px;
+    
+    }
+body{
+    background-image:url(https://t7.rbxcdn.com/62f46afcb3a810d48606fa8fcb4f1d02);
+    }
+img{
+    border:groove 3px;
+    }
+#demo{
+    text-align:center;
+    font-size:50px;
+    }
